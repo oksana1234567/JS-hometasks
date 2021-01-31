@@ -1,2 +1,0 @@
-# JS-hometasks
-JS hometasks
